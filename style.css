@@ -1,9 +1,11 @@
 body {
-background : linear-gradient(45deg,  #ff69b4, #ff69b4 , #ff1493) ;
-  height : 200vh;
-  font-family : Arial, sans-serif ;
-   margin : 0;
-   padding : 0; }
+    font-family: Arial, sans-serif;
+    background: linear-gradient ( to bottom right, #FFDEE9, #B387A7);
+    color: #5A3E52;
+    text-align: center;
+    margin: 0;
+    padding: 0; 
+}
 h1 , h2 { font-family : Arial, sans-serif; 
          color: #fff ; }
   p , div { 

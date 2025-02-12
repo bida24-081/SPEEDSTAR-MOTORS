@@ -35,7 +35,7 @@ h1 , h2 { font-family : Arial, sans-serif;
       #about { 
           text-align: center;
           padding : 20px;
-          background:white;
+          background:light purple;
           font size: 10px ;
           width : 80% ;
           margin : auto; }

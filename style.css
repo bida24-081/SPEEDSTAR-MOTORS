@@ -21,6 +21,17 @@ header {
     gap: 20px;
     padding: 20px; }
 
+.car {
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.car:hover {
+    transform: scale (1.05);
+}
 
 
 

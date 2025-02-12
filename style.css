@@ -31,5 +31,14 @@ h1 , h2 { font-family : Arial, sans-serif;
     .buy-now-button : hover {
       background-color : #B01372 ;
       }
-      
+
+      #about { 
+          text-align: center;
+          padding : 20px;
+          background:white;
+          font size: 10px ;
+          width : 80% ;
+          margin : auto; }
+          
+          
     
